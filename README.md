@@ -28,8 +28,8 @@ Efficient with Photoshop and Adobe Illustrator
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SenaCelebi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
-### To connect me:
-Linkedin: https://www.linkedin.com/in/sena-celebi
+# To connect me:
+Linkedin: https://www.linkedin.com/in/sena-celebi <br />
 
 
 
