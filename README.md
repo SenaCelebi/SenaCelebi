@@ -31,6 +31,7 @@ Efficient with Photoshop and Adobe Illustrator
 To connect with me:<br />
 Linkedin: https://www.linkedin.com/in/sena-çelebi/ <br />
 E-Mail: sena.celebi1197@gmail.com <br />
+itch.io: https://sena-celebi.itch.io/ <br />
 
 
 
