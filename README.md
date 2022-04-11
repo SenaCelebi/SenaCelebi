@@ -3,7 +3,7 @@
 I'm Sena from Turkey, and  I am a 4th-year student at Abdullah Gul University, working toward my bachelor’s degree in Computer Engineering with a heavy emphasis on programming. In general, I completed several projects about Game, Web, Mobile App Development, and ML. I am also actively developing mobile games. In addition, I listed my professional skills below.
 
 Programming Languages <br />
-▪ Java (2 Years experienced), C#, Python, Golang, JavaScript, C++ (familiar) <br />
+▪ Java (2 Years experienced), C#, Python, Golang, JavaScript, C++ <br />
 Frameworks & Libraries <br />
 ▪ Scikit-learn, Pandas, NumPy, Flask, Surprise <br />
 Mobile Technologies <br />
