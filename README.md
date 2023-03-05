@@ -1,9 +1,9 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm Sena from Turkey, and  I am recently graduated from Abdullah Gul University as Computer Engineer. In general, I completed several projects about Game, Web, Mobile App Development, and ML. I am also actively developing mobile games. In addition, I listed my professional skills below.
+I'm Sena data scientist and game dev from Turkey.
 
 Programming Languages <br />
-▪ Java, C#, Python, Golang, C++ <br />
+▪ Python, C#, Java, C++ <br />
 Frameworks & Libraries <br />
 ▪ Scikit-learn, Pandas, NumPy, Flask, Surprise <br />
 Game Development <br />
@@ -29,7 +29,7 @@ Efficient with Photoshop and Adobe Illustrator
 To connect with me:<br />
 Linkedin: https://www.linkedin.com/in/sena-çelebi/ <br />
 E-Mail: sena.celebi1197@gmail.com <br />
-itch.io: https://sena-celebi.itch.io/ <br />
+
 
 
 
